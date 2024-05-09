@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.googleG {
+    color: #4285F4;
+}
+.googleO {
+    color: #EA4537;
+}
+.googleO2 {
+    color: #FBBC05;
+}
+.googleL {
+    color: #34A853;
+}
+.googleE {
+    color: #EA4537;
+}
+
+
+
+.auth {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.auth button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.auth button:hover {
+    width: 220px;
+    height: 60px;
+    background-color: white;
+    color: #3b5998;
+}
